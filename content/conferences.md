@@ -1,9 +1,18 @@
 +++
-title = "Past Conferences"
+title = "Bioconductor Conferences"
 description = "Past Conferences"
 +++
+### Upcoming Conference
+
+- **[EuroBioC 2025](https://eurobioc2025.bioconductor.org)** – *September 17-19*
+
+---
+### Past Conferences
+
 - [BioC Asia 2024](https://biocasia2024.bioconductor.org)
+- [EuroBioC 2024](https://eurobioc2024.bioconductor.org)
 - [BioC Asia 2023](https://biocasia2023.bioconductor.org)
+- [EuroBioC 2023](https://eurobioc2023.bioconductor.org)
 - [BioC Asia 2022](https://biocasia2022.bioconductor.org/)
 - [EuroBioC 2022](https://eurobioc2022.bioconductor.org/)
 - [Bioconductor 2022](https://bioc2022.bioconductor.org/)

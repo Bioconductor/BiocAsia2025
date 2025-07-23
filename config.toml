@@ -56,7 +56,7 @@ pagerSize = 10
 
 [[menu.main]]
     identifier="submissions"
-    name = "Submissions"
+    name = "Key Dates"
     url  = "/submissions/"
     weight = 30
 
