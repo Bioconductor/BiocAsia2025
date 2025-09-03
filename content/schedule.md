@@ -122,9 +122,9 @@ description = "Schedule"
     </tr>
     <tr>
       <td class="time-col">3:00–3:30</td>
-      <td class="closing" colspan="2">Closing Comments (3:00–3:30)</td>
+      <td class="closing" colspan="2">Closing Comments</td>
     </tr>
   </tbody>
 </table>
 
-
+<br>
