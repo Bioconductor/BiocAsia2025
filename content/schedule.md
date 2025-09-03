@@ -154,5 +154,3 @@ description = "Schedule"
   </tbody>
 </table>
 
-### <a href="https://www.abacbs.org/abacbs-2025-workshops" target="_blank" rel="noopener noreferrer">Registration Details</a>
-

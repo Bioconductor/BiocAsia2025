@@ -45,8 +45,7 @@ ClustSIGNAL is cell-type spatial clustering method for high-resolution spatial t
 
 * **Date**: Thursday, 27 November 2025
 
-* **Time**: 1:30 PM - 3:00 PM (AEDT)
-
+* **Time**: 3:30 PM - 5:00 PM (AEDT)
 ---
 
 ### <a href="https://www.abacbs.org/abacbs-2025-workshops" target="_blank" rel="noopener noreferrer">Registration Details</a>

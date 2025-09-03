@@ -44,7 +44,7 @@ The tidyomics software ecosystem aims to bring the tidy R paradigm to BioConduct
 
 * **Date**: Thursday, 27 November 2025
 
-* **Time**: 3:30 PM - 5:00 PM (AEDT)
+* **Time**: 1:30 PM - 3:00 PM (AEDT)
 
 ---
 
