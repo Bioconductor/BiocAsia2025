@@ -36,8 +36,7 @@ The tidyomics software ecosystem aims to bring the tidy R paradigm to BioConduct
 
 ### Organiser(s)
 
-- **Dr Pratibha Panwar**, School of Mathematics and Statistics, University of Sydney *(contact person)*  
-- **Dr Shila Ghazanfar**, School of Mathematics and Statistics, University of Sydney
+- **William Hutchison**, Walter and Eliza Hall Institute of Medical Research, Australia *(contact person)*  
 
 ---
 

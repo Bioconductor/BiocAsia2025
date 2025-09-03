@@ -36,7 +36,8 @@ ClustSIGNAL is cell-type spatial clustering method for high-resolution spatial t
 
 ### Organiser(s)
 
-- **William Hutchison**, Walter and Eliza Hall Institute of Medical Research, Australia *(contact person)*  
+- **Dr Pratibha Panwar**, School of Mathematics and Statistics, University of Sydney *(contact person)*  
+- **Dr Shila Ghazanfar**, School of Mathematics and Statistics, University of Sydney
 
 ---
 
