@@ -77,7 +77,7 @@ description = "Schedule"
       <!-- Microbiome spans to 17:00 -->
       <td class="long-session" rowspan="2">
         <a href="/abstracts/making-sense-of-metagenomes">
-          Making Sense of Metagenomes
+          Making Sense of Metagenomes: From Bugs to Biological Insight
         </a>
       </td>
       <td class="short-session">
