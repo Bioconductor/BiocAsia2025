@@ -153,4 +153,3 @@ description = "Schedule"
     </tr>
   </tbody>
 </table>
-

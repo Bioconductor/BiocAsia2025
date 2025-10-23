@@ -30,11 +30,11 @@ pagerSize = 10
     url  = "/schedule/"
     weight = 20
 
-#[[menu.main]]
-#   identifier="Workshops"
-#   name = "Workshops & demos"
-#  url  = "/workshops/"
-#  weight = 21
+[[menu.main]]
+  identifier="socialnight"
+  name = "Networking Event"
+  url  = "/socialnight/"
+  weight = 21
 
 #[[menu.main]]
 #    identifier="Package demos"
@@ -56,9 +56,10 @@ pagerSize = 10
 
 [[menu.main]]
     identifier="submissions"
+    parent = "about"
     name = "Key Dates"
     url  = "/submissions/"
-    weight = 30
+    weight = 6
 
 # [[menu.main]]
 #    identifier="registration"
