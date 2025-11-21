@@ -3,7 +3,7 @@ title = "Schedule"
 description = "Schedule"
 +++
 > All times are local. Parallel tracks run in separate rooms at Flinders University’s <a href="https://maps.app.goo.gl/rys2cTivJJn5aD4bA" target="_blank" rel="noopener noreferrer">Festival Plaza</a>.
-
+> <h5> Room allocations and set-up information can be found here : <a href="https://blackochrelabs.au/abacbs2025_workshops/index.html">ABACBS/BiocAsia Workshop Schedule</a>.</h5>
 <style>
   .schedule-grid{
     width:100%;
